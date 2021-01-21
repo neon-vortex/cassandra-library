@@ -5,7 +5,7 @@ includedir=/usr/local/include
 
 Name: cassandra
 Description: A C/C++ client driver for Apache Cassandra
-Version: 2.11.0
+Version: 2.15.3
 Libs: -L${libdir} -lcassandra
 Cflags:
 URL: https://github.com/datastax/cpp-driver/
